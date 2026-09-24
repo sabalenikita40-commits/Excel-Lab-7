@@ -1,0 +1,18 @@
+# 📊 Regional Sales & Revenue Analysis
+
+## 📌 Dataset
+
+**Dataset Analyzed:** Superstore Sales Dataset
+
+The dataset contains sales transaction details such as **Order ID, Order Date, Region, Sales, Quantity, and other product/order information**.
+
+## 🎯 Analysis Performed
+
+* Calculated **Total Sales by Region**
+* Calculated **Total Orders by Region**
+* Analyzed **Revenue Distribution across Regions**
+* Compared sales performance across different regions
+
+## 🛠️ Tool Used
+
+* Microsoft Excel
